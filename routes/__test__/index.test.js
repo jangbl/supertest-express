@@ -6,7 +6,6 @@ describe('register', () => {
     const res = await request(app).post('/register').send({ firstName: 'Jan' });
 
     expect(res.statusCode).toEqual(201);
-    expect(res.body).toEqual(5);
   });
 
   it('returns bad request if first name is missing', async () => {

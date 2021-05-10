@@ -6,7 +6,7 @@ router.post('/register', (req, res, next) => {
     res.status(400).json('you need to pass a firstName');
     return;
   }
-  res.status(201).json(5);
+  res.sendStatus(201);
 });
 
 module.exports = router;
