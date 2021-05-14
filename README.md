@@ -4,9 +4,9 @@ This tutorial demonstrates how to use [supertest](https://github.com/visionmedia
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-This repository is contains the code for the [Node supertest video tutorial](https://www.youtube.com/watch?v=A5YiqaQbsyI)
+This repository is contains the code for the [Node supertest video tutorial](https://www.youtube.com/watch?v=T2sYitv2OAY)
 
-[![Node supertest.png)](https://www.youtube.com/watch?v=A5YiqaQbsyI)
+[![supertest express tutorial](images/supertest-express.png)](https://www.youtube.com/watch?v=T2sYitv2OAY)
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
